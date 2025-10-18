@@ -179,7 +179,7 @@ const EventDashboard = () => {
               <h2 className="text-2xl font-bold mb-4 flex items-center gap-3">
                 <DollarSign className="text-blue-400" />
                 <span className="bg-gradient-to-r from-blue-300 to-red-300 bg-clip-text text-transparent">
-                  How to Show Support
+                  Support the Movement
                 </span>
               </h2>
               <div className="space-y-4">
@@ -187,7 +187,7 @@ const EventDashboard = () => {
                   Local organizations will be accepting donations for our unhoused community.
                 </p>
                 <div className="bg-gray-800/50 rounded-lg p-4 border border-gray-700">
-                  <p className="font-semibold text-blue-300 mb-2">Consider Donating:</p>
+                  <p className="font-semibold text-blue-300 mb-2">Please bring:</p>
                   <ul className="space-y-1 text-gray-300">
                     <li>• Non-perishable food</li>
                     <li>• New hygiene products</li>
@@ -257,13 +257,13 @@ const EventDashboard = () => {
                 <h3 className="text-xl font-bold text-blue-300 mb-3">A Song of Hope and Protest</h3>
                 <div className="space-y-3 text-gray-300 leading-relaxed">
                   <p>
-                    Woody Guthrie wrote "This Land Is Your Land" in 1940 as a direct response to Irving Berlin's "God Bless America," which he felt presented an overly sanitized view of the nation. What many people don't realize is that this beloved folk song is actually a powerful protest anthem.
+                    Woody Guthrie wrote &quot;This Land Is Your Land&quot; in 1940 as a direct response to Irving Berlin&apos;s &quot;God Bless America,&quot; which he felt presented an overly sanitized view of the nation. What many people don&apos;t realize is that this beloved folk song is actually a powerful protest anthem.
                   </p>
                   <p>
-                    Written during the Great Depression by a dust bowl refugee who rode the rails, the song challenges listeners to consider who really has access to the nation's abundance. While the chorus celebrates America's natural beauty, the original verses—often omitted from schoolroom versions—contained sharp critiques of private property and economic inequality.
+                    Written during the Great Depression by a dust bowl refugee who rode the rails, the song challenges listeners to consider who really has access to the nation&apos;s abundance. While the chorus celebrates America&apos;s natural beauty, the original verses—often omitted from schoolroom versions—contained sharp critiques of private property and economic inequality.
                   </p>
                   <p>
-                    From civil rights marches to labor rallies to contemporary movements for justice, "This Land Is Your Land" continues to be the soundtrack of resistance, proving that Guthrie's genius was wrapping radical social commentary in a melody so accessible that each generation can make it their own.
+                    From civil rights marches to labor rallies to contemporary movements for justice, &quot;This Land Is Your Land&quot; continues to be the soundtrack of resistance, proving that Guthrie&apos;s genius was wrapping radical social commentary in a melody so accessible that each generation can make it their own.
                   </p>
                 </div>
               </div>
@@ -322,10 +322,10 @@ const EventDashboard = () => {
                     Bella Ciao started as an Italian protest song over 100 years ago. It was first sung by women working in rice fields to protest poor working conditions. Later, during World War II, it was used by The Partisans—ordinary people fighting against the fascist government and Nazi occupation—and tells the story of someone leaving to fight for freedom, knowing they might not come back.
                   </p>
                   <p>
-                    Over time, Bella Ciao spread around the world and became a song people sing when they are fighting for justice. It's been sung by freedom movements ever since—in dozens of languages, across every continent.
+                    Over time, Bella Ciao spread around the world and became a song people sing when they are fighting for justice. It&apos;s been sung by freedom movements ever since—in dozens of languages, across every continent.
                   </p>
                   <p>
-                    Singing Bella Ciao today shows that we reject dictators, monarchs, and anyone who tries to control people's rights. It connects us to others in history who fought for equality, democracy, and the power of the people.
+                    Singing Bella Ciao today shows that we reject dictators, monarchs, and anyone who tries to control people&apos;s rights. It connects us to others in history who fought for equality, democracy, and the power of the people.
                   </p>
                 </div>
               </div>
