@@ -241,8 +241,8 @@ const EventDashboard = () => {
                     This land was made for you and me</p>
 
                     <p>There was a big high wall there that tried to stop me<br/>
-                    Sign was painted, said, "Private Property"<br/>
-                    But on the back side, it didn't say nothing<br/>
+                    Sign was painted, said, &quot;Private Property&quot;<br/>
+                    But on the back side, it didn&apos;t say nothing<br/>
                     This land was made for you and me</p>
 
                     <p>When the sun comes shining, then I was strolling<br/>
