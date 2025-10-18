@@ -119,6 +119,9 @@ const EventDashboard = () => {
                   <div className="text-gray-300">Community United Methodist Church</div>
                 </div>
                 <div className="bg-gradient-to-r from-blue-900/20 to-red-900/20 rounded-lg p-4 border border-gray-700 hover:border-blue-500/50 transition-all">
+                  <div className="text-gray-300">Disability Network West Michigan</div>
+                </div>
+                <div className="bg-gradient-to-r from-blue-900/20 to-red-900/20 rounded-lg p-4 border border-gray-700 hover:border-blue-500/50 transition-all">
                   <div className="text-gray-300">Family Promise of the Lakeshore</div>
                 </div>
                 <div className="bg-gradient-to-r from-blue-900/20 to-red-900/20 rounded-lg p-4 border border-gray-700 hover:border-blue-500/50 transition-all">
