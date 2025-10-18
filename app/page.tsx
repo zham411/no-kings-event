@@ -103,15 +103,40 @@ const EventDashboard = () => {
       <div className="max-w-6xl mx-auto px-4 py-8">
         {activeTab === 'event' && (
           <div className="space-y-8">
-            {/* Tables Section - Placeholder */}
+            {/* Tables Section */}
             <div className="bg-gradient-to-br from-gray-800 to-gray-900 rounded-xl p-6 border border-gray-700 shadow-xl">
-              <h2 className="text-2xl font-bold mb-4 flex items-center gap-3">
+              <h2 className="text-2xl font-bold mb-6 flex items-center gap-3">
                 <Users className="text-blue-400" />
                 <span className="bg-gradient-to-r from-blue-300 to-red-300 bg-clip-text text-transparent">
                   Tables & Organizations
                 </span>
               </h2>
-              <p className="text-gray-400 italic">Table information coming soon...</p>
+              <div className="grid md:grid-cols-2 gap-3">
+                <div className="bg-gradient-to-r from-blue-900/20 to-red-900/20 rounded-lg p-4 border border-gray-700 hover:border-blue-500/50 transition-all">
+                  <div className="text-gray-300">Biking with Purpose</div>
+                </div>
+                <div className="bg-gradient-to-r from-blue-900/20 to-red-900/20 rounded-lg p-4 border border-gray-700 hover:border-blue-500/50 transition-all">
+                  <div className="text-gray-300">Community United Methodist Church</div>
+                </div>
+                <div className="bg-gradient-to-r from-blue-900/20 to-red-900/20 rounded-lg p-4 border border-gray-700 hover:border-blue-500/50 transition-all">
+                  <div className="text-gray-300">Family Promise of the Lakeshore</div>
+                </div>
+                <div className="bg-gradient-to-r from-blue-900/20 to-red-900/20 rounded-lg p-4 border border-gray-700 hover:border-blue-500/50 transition-all">
+                  <div className="text-gray-300">Grand Rapids Democratic Socialists of America</div>
+                </div>
+                <div className="bg-gradient-to-r from-blue-900/20 to-red-900/20 rounded-lg p-4 border border-gray-700 hover:border-blue-500/50 transition-all">
+                  <div className="text-gray-300">Lakeshore Rapid Response</div>
+                </div>
+                <div className="bg-gradient-to-r from-blue-900/20 to-red-900/20 rounded-lg p-4 border border-gray-700 hover:border-blue-500/50 transition-all">
+                  <div className="text-gray-300">Missions for Area People</div>
+                </div>
+                <div className="bg-gradient-to-r from-blue-900/20 to-red-900/20 rounded-lg p-4 border border-gray-700 hover:border-blue-500/50 transition-all">
+                  <div className="text-gray-300">RankMiVote</div>
+                </div>
+                <div className="bg-gradient-to-r from-blue-900/20 to-red-900/20 rounded-lg p-4 border border-gray-700 hover:border-blue-500/50 transition-all">
+                  <div className="text-gray-300">Sierra Club</div>
+                </div>
+              </div>
             </div>
 
             {/* Speakers */}
